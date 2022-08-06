@@ -13,4 +13,4 @@ Node Centrality, Clustering Coefficient, WL kernels to determine Graph Isomorphi
 
 ## Course Project 
 
-Please Refer to the README
+Please Refer to the [README](https://github.com/sudarshan-s-harithas/CS7.602-Topics-in-Deep-Learning/tree/main/GCN-for-Collision-Prediction-main)
