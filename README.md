@@ -10,3 +10,7 @@ Node Centrality, Clustering Coefficient, WL kernels to determine Graph Isomorphi
 1. DeepWalk, Node2Vec and Struct2Vec.
 2. Thoretical Questions on GNN
 3. Programming GCN from scratch 
+
+## Course Project 
+
+Please Refer to the README
